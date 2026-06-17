@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="pet_pink">#FFE84393</color>
+    <color name="pet_light_pink">#FFFFB3C6</color>
+    <color name="pet_blue">#FFA8D8EA</color>
+    <color name="pet_bg_dark">#FF1A1A2E</color>
+    <color name="pet_bg_light">#FFFFF5F7</color>
+</resources>
